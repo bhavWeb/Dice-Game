@@ -14,7 +14,7 @@ CSS
 JavaScript
 
 Usage :
-To play the game, simply open the index.html file in your web browser. Each time you refresh the page, the dice will roll, and the game outcome will be displayed.
+To play the game, simply open the dicee.html file in your web browser. Each time you refresh the page, the dice will roll, and the game outcome will be displayed.
 
 How to Contribute : 
 If you'd like to contribute to this project, you can:
